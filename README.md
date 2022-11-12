@@ -1,4 +1,4 @@
-# Praktikum2
+# OOP_Praktikum2
 
 ## Nama : Syahril Ifanda Meista Pratama
 ## Kelas  : TI.21.C2
